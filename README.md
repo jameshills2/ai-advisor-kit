@@ -6,7 +6,7 @@ Most AI tools are built to be helpful, so they agree with you. That's comfortabl
 
 **You stay the decision maker.** The advisor advises. It never decides for you.
 
-> Created by James Hills at [Flow Media Marketing](https://flowmediamarketing.com). Read the story behind it: *How To Build An AI Business Advisor That Tells You No* (link coming).
+> Created by James Hills at [Flow Media Marketing](https://flowmediamarketing.com). Read the story behind it: [How To Build An AI Business Advisor That Tells You No](https://flowmediamarketing.com/blog/ai-business-advisor-that-tells-you-no.html).
 
 ---
 
@@ -58,6 +58,26 @@ Click **Use this template** (or **Code > Download ZIP**) and change anything. Th
 ## Want help?
 
 If you'd like help adapting this for your business, or for an agency to triage client ideas, James offers consulting through [Flow Media Marketing](https://flowmediamarketing.com).
+
+## Share what you built
+
+Set up your own advisor, or adapted the kit for clients? [Tell us about it](../../issues/new?template=share-what-you-built.md). We feature the best ones on [Flow Media Marketing](https://flowmediamarketing.com).
+
+## Contribute a role
+
+Built a role others could use (a lawyer, an HR lens, a franchise expert)? See [CONTRIBUTING.md](CONTRIBUTING.md). Accepted roles carry your name.
+
+## How to credit this kit
+
+If you use, adapt or write about the kit, please credit it like this:
+
+```html
+Based on the <a href="https://flowmediamarketing.com/blog/ai-business-advisor-that-tells-you-no.html">AI Advisor Kit</a> by James Hills, Flow Media Marketing (CC BY 4.0).
+```
+
+Or in plain text:
+
+> Based on the AI Advisor Kit by James Hills, Flow Media Marketing: https://flowmediamarketing.com/blog/ai-business-advisor-that-tells-you-no.html (CC BY 4.0)
 
 ## License
 
