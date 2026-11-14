@@ -24,6 +24,27 @@ Go to [`kit/`](kit/). Start with [`kit/starter-agent.md`](kit/starter-agent.md).
 
 ---
 
+### Door 3: I use Claude Code
+Install the kit as a plugin and let it set everything up for you:
+
+```
+/plugin install ai-advisor --marketplace jameshills2/ai-advisor-kit
+```
+
+On older versions of Claude Code, use two steps: `/plugin marketplace add jameshills2/ai-advisor-kit`, then `/plugin install ai-advisor@ai-advisor-kit`.
+
+Then open the folder where you want your advisor to live and run `/ai-advisor:setup`. It interviews you and writes your brief, advisor, roles and Idea Inbox as plain files you can edit.
+
+| Command | What it does |
+|---|---|
+| `/ai-advisor:setup` | Interview, recommended roster, and your files |
+| `/ai-advisor:park` | Files the idea under discussion in the background |
+| `/ai-advisor:panel` | Every role reviews an idea, then your advisor gives a verdict |
+| `/ai-advisor:connect` | Checks an article, a tip or a new idea against your parked ideas |
+| `/ai-advisor:revisit` | Re-tests an old idea, or lists the ideas that are due |
+
+---
+
 ## What's in the kit
 
 | Folder | What it does |

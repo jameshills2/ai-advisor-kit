@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-advisor-kit",
+  "description": "The AI Advisor Kit by James Hills / Flow Media Marketing.",
+  "owner": {
+    "name": "James Hills / Flow Media Marketing",
+    "url": "https://flowmediamarketing.com"
+  },
+  "plugins": [
+    {
+      "name": "ai-advisor",
+      "description": "Build your own AI business advisor that pushes back, with a panel of specialist roles and an Idea Inbox.",
+      "author": {
+        "name": "James Hills / Flow Media Marketing"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://flowmediamarketing.com/blog/ai-business-advisor-that-tells-you-no.html"
+    }
+  ]
+}

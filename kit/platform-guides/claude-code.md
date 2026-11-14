@@ -1,5 +1,7 @@
 # Setup: Claude Code (the full version)
 
+> **Easiest:** install the plugin with `/plugin install ai-advisor --marketplace jameshills2/ai-advisor-kit`, then run `/ai-advisor:setup` in your advisor folder. It does everything below for you, keeping the advisor and roles in an `advisor/` folder. The manual steps below are for people who want named agents in `.claude/agents/` or use another agent tool.
+
 In an agent tool, every role is a real separate agent, the idea writer can run in the background while you keep talking, and everything is saved as files the agents can read later. This is the version the kit was originally built from.
 
 ## 1. Create a folder for your advisor

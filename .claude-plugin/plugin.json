@@ -1,0 +1,20 @@
+{
+  "name": "ai-advisor",
+  "version": "1.0.0",
+  "description": "Build your own AI business advisor that pushes back: an interview that writes your advisor, a panel of specialist roles and an Idea Inbox. Commands: setup, park, panel, connect, revisit.",
+  "author": {
+    "name": "James Hills / Flow Media Marketing",
+    "url": "https://flowmediamarketing.com/blog/ai-business-advisor-that-tells-you-no.html"
+  },
+  "homepage": "https://flowmediamarketing.com/blog/ai-business-advisor-that-tells-you-no.html",
+  "repository": "https://github.com/jameshills2/ai-advisor-kit",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "business",
+    "advisor",
+    "strategy",
+    "ideas",
+    "small-business",
+    "decision-making"
+  ]
+}
